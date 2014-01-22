@@ -1,4 +1,0 @@
-Patches
-=======
-
-MaNGOS
